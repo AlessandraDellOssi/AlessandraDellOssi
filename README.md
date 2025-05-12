@@ -38,7 +38,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake-dark.svg">
  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake.svg">
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+ <img alt="github contribution grid snake animation"src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://th.bing.com/th/id/R.e6b37d19dc05206c755f519cc3a6a5c5?rik=J8MmM%2fnVHL%2fKSA&riu=http%3a%2f%2f4.bp.blogspot.com%2f-hIAgCCO-85U%2fT76oCKe61GI%2fAAAAAAAAGZ4%2fGmB_BI4X0vw%2fs1600%2fslide_225682_962889_free.gif&ehk=K4EFkWsq3A6HNhjBxos%2bVuZ8R5ZCT4BI3%2bRKtNWOddg%3d&risl=&pid=ImgRaw&r=0">
