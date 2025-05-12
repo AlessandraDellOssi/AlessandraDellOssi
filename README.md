@@ -1,9 +1,9 @@
 <h2>Welcome to my Profile  </h2>
 
-<p>Currently studying <strong>Systems Analysis and Development</strong> at    <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://imagensfree.com.br/wp-content/uploads/2019/12/logo-estacio-vertical-com-sombra.jpg"></a>
+<p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://imagensfree.com.br/wp-content/uploads/2019/12/logo-estacio-vertical-com-sombra.jpg"></a>
 </p>
  <div>
-   <a href="https://github.com/AlessandraDellOssi">
+   <a href="https://github.com/AlessandraDell">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandradellossi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cesargarciajr&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
