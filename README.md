@@ -1,6 +1,6 @@
 <h2>Welcome to my Profile  </h2>
 
-<p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://imagensfree.com.br/wp-content/uploads/2019/12/logo-estacio-vertical-com-sombra.jpg"></a>
+<p>Currently studying <strong>Systems Analysis and Development</strong> at <a href="https://codeinstitute.net"><img align="center" alt="CodeInstitute" height="80" width="80" src="https://www.logovector.org/wp-content/uploads/logos/png/u/unisuam_logo.png"></a>
 </p>
  <div>
    <a href="https://github.com/AlessandraDell">
